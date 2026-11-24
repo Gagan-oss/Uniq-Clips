@@ -1,0 +1,6 @@
+{
+  "name": "UNIQ CLIPS",
+  "description": "UNIQ CLIPS is a clipping agency connecting creators with talented clippers across TikTok, YouTube Shorts and Instagram Reels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
